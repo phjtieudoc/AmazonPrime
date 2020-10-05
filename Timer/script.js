@@ -80,11 +80,16 @@ $(function()
     name: "Anh Sẽ Ổn Thôi",
     url: "https://docs.google.com/uc?export=download&id=1yNBdRY7Yn6-_n1lQEN3DIhE1yUwbVHi4",
     picture: "https://photo-zmp3.zadn.vn/covers/7/8/78822d9ca7bae4240a7f9048e776dc4e_1474520373.jpg"
-},{
+}, {
     artist: "Lương Gia Hùng",
     name: "Cô Đơn Sẽ Tốt Hơn",
     url: "https://docs.google.com/uc?export=download&id=18B074pWzzgVhbpCnjPYdx37k53-YeAhl",
     picture: "https://zmp3-photo-fbcrawler.zadn.vn/cover/3/2/d/5/32d5cb46f04e2fccd0897770ae29f791.jpg"
+}, {
+    artist: "Trương Thế Vinh",
+    name: "Tình Yêu Hoa Gió",
+    url: "https://docs.google.com/uc?export=download&id=1OKc06Bt4lA64WYM63d4gdmfvX-RyFHAT",
+    picture: "https://photo-zmp3.zadn.vn/covers/b/c/bc0df0639c8d8fd3e36cb7795e356c48_1296095413.jpg"
 }, {
     artist: "Soobin Hoàng Sơn",
     name: "Xin Đừng Lặng Im",
